@@ -1,0 +1,10 @@
+This is file2
+
+Linux Command Line, Bash programming and Git
+In-Class Activity 01
+
+Basic git commands (clone, add, push, pull, commit etc.)
+
+
+
+Created by Prabhashi Mahawatta
